@@ -7,7 +7,7 @@
   "basePath": "/v1",
   "info": {
     "contact": {
-      "name": "Work Data Initiative",
+      "name": "Work Data Initiative for pentest env",
       "url": "http://www.dataatwork.org"
     },
     "description": "A complete and standard data store for canonical and emerging skills, knowledge, abilities, tools, technolgies, and how they relate to jobs.",
